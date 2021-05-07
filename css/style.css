@@ -1,0 +1,5 @@
+.box{
+	min-height: 100px;
+	background-color: black;
+}
+<input type="email" class="form-control u_email" id="u_email" name="u_email" required="">
